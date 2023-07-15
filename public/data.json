@@ -1,0 +1,39 @@
+[
+    {
+      "id": "abcd1234",
+      "tag": "Residential",
+      "imageLink": "https://i.ibb.co/N2mCy1H/18.jpg",
+      "text": "Office Cleaning"
+    },
+    {
+      "id": "efgh5678",
+      "tag": "Commercial",
+      "imageLink": "https://i.ibb.co/D5226rM/19.jpg",
+      "text": "Office Cleaning"
+    },
+    {
+      "id": "ijkl9012",
+      "tag": "Window",
+      "imageLink": "https://i.ibb.co/N7M5bx8/20.jpg",
+      "text": "Office Cleaning"
+    },
+    {
+      "id": "mnop3456",
+      "tag": "Kitchen",
+      "imageLink": "https://i.ibb.co/jvb2z7d/8.jpg",
+      "text": "Office Cleaning"
+    },
+    {
+      "id": "qrst7890",
+      "tag": "Residential",
+      "imageLink": "https://i.ibb.co/TvRS63C/9.jpg",
+      "text": "Office Cleaning"
+    },
+    {
+      "id": "uvwx2345",
+      "tag": "Commercial",
+      "imageLink": "https://i.ibb.co/L9Ljf5w/17.jpg",
+      "text": "Office Cleaning"
+    }
+  ]
+  
